@@ -31,16 +31,16 @@ module.exports = {
     CHATBOT : process.env.CHATBOT || "false",//true, pm, group
     REACT : process.env.REACT || "false",//true, command, emoji
     WARNCOUND : process.env.WARNCOUND || 5,
-    BOT_INFO : process.env.BOT_INFO || "INRL-BOT-MD;INRL;https://i.imgur.com/DyLAuEh.jpg",
-    WORKTYPE : process.env.WORKTYPE || "private",
+    BOT_INFO : process.env.BOT_INFO || "𝐂𝚫𝚻 𝐒𝚸𝐘;𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷;https://telegra.ph/file/f1ae2cd1d9d934d9c2465.jpg",
+    WORKTYPE : process.env.WORKTYPE || "public",
     PREFIX : process.env.PREFIX || "[.,!]",//both  .  and [.] equal, for multi prefix we use [] this
     LANG : process.env.LANG || "en",
     PERSONAL_MESSAGE: process.env.PERSONAL_MESSAGE || "null",
     BOT_PRESENCE : process.env.BOT_PRESENCE || "unavailable",
-    AUDIO_DATA : process.env.AUDIO_DATA || "INRL-BOT-MD;INRL;https://i.imgur.com/DyLAuEh.jpg",
-    STICKER_DATA : process.env.STICKER_DATA || "inrl;inrl",
+    AUDIO_DATA : process.env.AUDIO_DATA || "𝐂𝚫𝚻 𝐒𝚸𝐘;𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷;https://telegra.ph/file/f1ae2cd1d9d934d9c2465.jpg",
+    STICKER_DATA : process.env.STICKER_DATA || "𝐂𝚫𝚻 𝐒𝚸𝐘;𝐂𝚫𝚻 𝐒𝚸𝐘",
     BRAINSHOP: process.env.BRAINSHOP || '172372,nbjE0YAlyw3cpoMl',
-    SUDO : process.env.SUDO || "null",
+    SUDO : process.env.SUDO || "7034167123",
     RMBG_KEY: process.env.RMBG_KEY,
     OPEN_AI: process.env.OPEN_AI,
     ELEVENLABS: process.env.ELEVENLABS,
