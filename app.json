@@ -27,7 +27,7 @@
     "BOT_INFO": {
       "description": "baasic bot configration",
       "required": true,
-      "value": "INRL-BOT-MD;INRL;https://i.imgur.com/DyLAuEh.jpg"
+      "value": "𝐂𝚫𝚻 𝐒𝚸𝐘;𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷;https://telegra.ph/file/f1ae2cd1d9d934d9c2465.jpg"
     },
     "PREFIX": {
       "description": "bot preifx  ., [.,!], false",
@@ -37,12 +37,12 @@
     "AUDIO_DATA": {
       "description": "audio metadata",
       "required": true,
-      "value": "ᴍᴜꜱɪᴄ;ᴋɪᴅ;https://i.imgur.com/DyLAuEh.jpg"
+      "value": "𝐂𝚫𝚻 𝐒𝚸𝐘;𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷;https://telegra.ph/file/f1ae2cd1d9d934d9c2465.jpg"
     },
     "STICKER_DATA": {
       "description": "sticker data",
       "required": true,
-      "value": "inrl;inrl"
+      "value": "𝐂𝚫𝚻 𝐒𝚸𝐘;𝐂𝚫𝚻 𝐒𝚸𝐘"
     },
     "PERSONAL_MESSAGE": {
       "description": "personal greetings for first message ",
